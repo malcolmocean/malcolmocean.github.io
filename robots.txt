@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malcolmocean.github.io/context-for-llms/sitemap.xml
